@@ -7,13 +7,9 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <artifactId>auth</artifactId>
-    <packaging>pom</packaging>
     <name>auth</name>
-    <modules>
-        <module>user-model</module>
-        <module>register</module>
-        <module>login</module>
-        <module>verify-email</module>
-        <module>verify-mobile</module>
-    </modules>
+
+    <dependencies>
+
+    </dependencies>
 </project>

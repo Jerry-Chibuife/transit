@@ -7,13 +7,5 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <artifactId>account</artifactId>
-    <packaging>pom</packaging>
     <name>account</name>
-    <modules>
-        <module>balance</module>
-        <module>top-up</module>
-        <module>withdraw</module>
-        <module>pay</module>
-        <module>accept-pay</module>
-    </modules>
 </project>
